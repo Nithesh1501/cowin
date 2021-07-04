@@ -1,5 +1,5 @@
 body{
-	background: url('../images/covidbg.jpg')  no-repeat center center fixed;
+	background: url('./covidbg.jpg')  no-repeat center center fixed;
 }
 .header{
 	text-align: center;
